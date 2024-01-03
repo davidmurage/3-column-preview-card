@@ -23,7 +23,7 @@ body{
 
 .box{
     width: 269px;
-    padding: 15px;
+    padding: 16px;
     min-height: 430px;
 }
 
@@ -67,7 +67,7 @@ p{
     border-radius: 30px;
     outline: none;
     background-color: #FFF;
-    font-size: 15px;
+    font-size: 16px;
     cursor: pointer;
     font-family: 'Lexend Deca',sans-serif;
     font-weight: 700;
